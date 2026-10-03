@@ -27,6 +27,7 @@ langchain-text-splitters>=0.2.0
 
 # RAG
 chromadb
+langchain-chroma
 
 # Streamlit
 streamlit>=1.35.0
