@@ -5,6 +5,7 @@
 yt-dlp>=2024.4.9
 pydub>=0.25.1
 ffmpeg-python>=0.2.0
+audioop-lts>=0.2.2
 
 # Local Whisper
 openai-whisper>=20231117
