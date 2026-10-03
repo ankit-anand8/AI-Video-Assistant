@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+
+# Environment variables / API keys
+.env
+
+# Chroma vector database
+chroma_db/
+
+# Downloaded audio/video files
+downloads/
+
+# Project notes
+whisper_my_notes.txt
