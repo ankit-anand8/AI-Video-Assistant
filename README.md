@@ -43,10 +43,6 @@ When the user asks a question, relevant transcript chunks are retrieved using MM
 
 Gemini then generates an answer based only on the video transcript.
 
-## 🌐 Links
-
-- 🚀 Live Demo: **[Link will be added]**
-- 💻 GitHub Repository: **[Link will be added]**
 
 ## 📁 Project Files
 
